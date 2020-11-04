@@ -22,7 +22,7 @@
 Allows users to enter, save. review and delete notes as needed. 
   
 ## Installation 
-NoteTaker is available to users with the link provided below (deployed using heroku). 
+NoteTaker is available to users with the link provided below (deployed using heroku). NoteTaker is also available on localhost:3000 to access using localhost users will be required to open terminal, npm install, and run server.js after these steps are complete user will have access to NoteTaker using localhost:3000 in web browser.
   
 ## License
 None
